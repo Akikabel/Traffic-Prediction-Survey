@@ -1,0 +1,1 @@
+Los datos presentes en esta sección corresponden a coordenadas de sensores ubicados en las intersecciones de algunas calles en la ciudad de Quito-Ecuador, los archivos en excel contienen los nombres de las calles, la orientación y ubicación geográfica de las mismas.
