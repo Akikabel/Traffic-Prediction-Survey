@@ -1,1 +1,1 @@
-
+En la presente carpeta se encuentran las capas tanto de los limites territoriales del DMQ, como de la red vial y los sensores disponibles en la base de datos. Estas capas pueden ser leidas por Python, Qgis o cualquier otro software que lo permita.
